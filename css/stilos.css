@@ -1,0 +1,38 @@
+
+h1{
+
+    font-family: Modak;
+    color: #ffff;
+    text-shadow: 2px 2px 2px blue;
+}
+
+.titulo {
+
+  
+    font-family: Modak;
+    color: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+
+}
+
+body{
+    background: #93cede; 
+
+}
+
+
+nav{
+font-weight: bold!important;
+}
+label {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 18px;
+  color: black;
+}
+
+ a {
+    font-weight: bold;
+}
